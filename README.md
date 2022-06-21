@@ -1,6 +1,6 @@
 - Hi 👋, I'm Ankit Jha
 - 🏫 I'm currently pursuing my BTech in Electronics and Communication Engineering at NIT Jamshedpur
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Web and Android Development
 - ✅ Green ticks unstablizes the entropy of my keyboard!!
 - 📫 Do invade here : Email :- ankitjha20022020@gmail.com
 
